@@ -1,0 +1,13 @@
+How many words are there in the text? (260)
+
+How many sentences are there in the text? (22)
+
+What is the length of the longest word? (15)
+
+Which six words occur the most in the text? (non, est, enim, ut, quid, mihi)
+
+What percentage of the words, excluding duplicates, occur only once? (82% rounded down)
+
+What is the average number of words per sentence? (11 rounded down)
+
+Which three two-word phrases occur the most in the text? ("lorem ipsum", "et mihi", "quoniam et")
