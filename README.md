@@ -1,4 +1,4 @@
-# Using this to learn python in more depth
+# Using this to learn languages in more depth and practice coding challenges
 
 The following are suggested areas to keep in mind as suggested by interviewers for how they determine complexity and skill.
 
