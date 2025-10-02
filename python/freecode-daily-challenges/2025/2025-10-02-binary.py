@@ -19,3 +19,5 @@ def to_binary(decimal):
         decimal = math.floor(decimal/2)
 
     return binary
+
+## Consideration: built in function bin, or using bitshifting
