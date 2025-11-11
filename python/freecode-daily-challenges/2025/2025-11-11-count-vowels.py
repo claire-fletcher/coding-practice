@@ -5,13 +5,12 @@ def count(s):
     s = s.lower()
 
     # using regex, get a count of matches for single alpha chars
-    letters = re.findall('[a-z]', s)
+    letters_count = len(re.findall('[a-z]', s))
 
     # count with regex matches for a,e,i,o,u
-    vowels = re.findall('[aeiou]', s)
-    vowels_count = len(vowels)
+    vowels_count = len(re.findall('[aeiou]', s))
 
     # consonants take vowel count from total alpha
-    consonants_count = len(letters) - vowels_count
+    consonants_count = letters_count - vowels_count
 
     return [vowels_count, consonants_count]
